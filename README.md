@@ -1,3 +1,2 @@
 # hello-world
-Saying hello to world
-Learning Git Hub
+Saying hello to world Learning Git Hub
